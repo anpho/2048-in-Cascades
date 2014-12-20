@@ -9,6 +9,37 @@
     </message>
 </context>
 <context>
+    <name>import</name>
+    <message>
+        <source>Go</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Former Game Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Former Game Data Detected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please choose which data you&apos;d like to keep.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Former record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&apos;ll decide later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>main</name>
     <message>
         <source>Review</source>
@@ -222,15 +253,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Français</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bug Report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Submit Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fran莽ais</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable sound in game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Experimental</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
