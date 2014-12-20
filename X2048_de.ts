@@ -17,12 +17,12 @@
     <message>
         <location filename="../assets/main.qml" line="9"/>
         <source>Tutorial</source>
-        <translation>Lernprogramm</translation>
+        <translation>Tutorial</translation>
     </message>
     <message>
         <location filename="../assets/main.qml" line="16"/>
         <source>Settings</source>
-        <translation>Optionen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../assets/main.qml" line="27"/>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../assets/main.qml" line="43"/>
         <source>Screenshot</source>
-        <translation>Bildschirmfoto</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <location filename="../assets/main.qml" line="178"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../assets/main.qml" line="196"/>
         <source>Continue</source>
-        <translation>Mach weiter</translation>
+        <translation>Weiter spielen</translation>
     </message>
     <message>
         <location filename="../assets/main.qml" line="208"/>
@@ -62,12 +62,12 @@
     <message>
         <location filename="../assets/main.qml" line="220"/>
         <source>Undo</source>
-        <translation>Zurück</translation>
+        <translation>Rückgängig</translation>
     </message>
     <message>
         <location filename="../assets/main.qml" line="232"/>
         <source>Share Screenshot</source>
-        <translation>Teilen</translation>
+        <translation>Screenshot teilen</translation>
     </message>
 </context>
 <context>
@@ -75,12 +75,12 @@
     <message>
         <location filename="../assets/settings.qml" line="50"/>
         <source>Settings</source>
-        <translation>Optionen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="55"/>
         <source>Back</source>
-        <translation>Zurückkehren</translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="64"/>
@@ -90,52 +90,52 @@
     <message>
         <location filename="../assets/settings.qml" line="68"/>
         <source>You may specify a different language here, unsupported language would be displayed as English.</source>
-        <translation>Sie können eine andere Sprache angeben, würde nicht unterstützten Sprache als Englisch angezeigt.</translation>
+        <translation>Wähle eine andere Sprache, nicht unterstützte Sprachen werden mit der englischen Übersetzung dargestellt.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="108"/>
         <source>Simplified Chinese</source>
-        <translation></translation>
+        <translation>vereinfachtes Chinesisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="114"/>
         <source>Traditional Chinese</source>
-        <translation></translation>
+        <translation>traditionelles Chinesisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="120"/>
         <source>English</source>
-        <translation></translation>
+        <translation>Englisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="126"/>
         <source>Indonesian</source>
-        <translation></translation>
+        <translation>Indonesisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="138"/>
         <source>Spanish</source>
-        <translation></translation>
+        <translation>Spanisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="144"/>
         <source>Italiano</source>
-        <translation></translation>
+        <translation>Italienisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="150"/>
         <source>Deutsch</source>
-        <translation></translation>
+        <translation>Deutsch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="163"/>
         <source>Animation Speed</source>
-        <translation>Animations Geschwindigkeit</translation>
+        <translation>Animationsgeschwindigkeit</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="167"/>
         <source>Choose the animation speed.</source>
-        <translation>Wählen Sie die Animationsgeschwindigkeit.</translation>
+        <translation>Wähle die Animationsgeschwindigkeit.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="172"/>
@@ -150,17 +150,17 @@
     <message>
         <location filename="../assets/settings.qml" line="182"/>
         <source>Fast</source>
-        <translation>Schneller</translation>
+        <translation>Schnell</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="210"/>
         <source>Theme</source>
-        <translation>Farbe einstellen</translation>
+        <translation>Theme</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="214"/>
         <source>You can choose the theme here, no restart required.</source>
-        <translation>Sie können das Thema hier wählen, kein Neustart erforderlich.</translation>
+        <translation>Stelle das Theme ein, es ist kein Neustart erforderlich.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="219"/>
@@ -185,18 +185,18 @@
     <message>
         <location filename="../assets/settings.qml" line="239"/>
         <source>Flat Dots</source>
-        <translation>Flache punkte</translation>
+        <translation>Flache Punkte</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="499"/>
         <location filename="../assets/settings.qml" line="513"/>
         <source>Unlock</source>
-        <translation>zurück feature freischalten</translation>
+        <translation>Rückgängig Feature freischalten</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="284"/>
         <source>Undo Feature Status:</source>
-        <translation>zurück feature Status:</translation>
+        <translation>Rückgängig Feature Status:</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="11"/>
@@ -206,12 +206,12 @@
     <message>
         <location filename="../assets/settings.qml" line="25"/>
         <source>Bug Report</source>
-        <translation></translation>
+        <translation>Fehler melden</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="132"/>
         <source>Français</source>
-        <translation></translation>
+        <translation>Französisch</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="273"/>
@@ -231,51 +231,51 @@
     <message>
         <location filename="../assets/settings.qml" line="301"/>
         <source>Undo feature lets you undo your last 50 movements, till the very beginning of the game,or the last saved state.</source>
-        <translation>Zurück feature erlaubt dir, 50 Schritte vor und zurück zu machen.</translation>
+        <translation>Das Rückgängig Feautere erlaubt es dir die letzten 50 Schritte rückgängig zu machen, zum Anfang oder zum letzten gespeicherten Spielstand zu springen.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="307"/>
         <source>Unlock UNDO Feature</source>
-        <translation>zurück feature freischalten</translation>
+        <translation>Rückgängig Feature freischalten</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="327"/>
         <location filename="../assets/settings.qml" line="358"/>
         <source>Waiting for Payment Service...</source>
-        <translation>Wachten op Betaling Service...</translation>
+        <translation>Warten auf den Bezahldienst...</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="332"/>
         <source>If you already purchased the UNDO feature via BlackBerry World, press the button below :</source>
-        <translation>Wenn Sie bereits die Rückgängig-Funktion mit dem Blackberry Welt erworben haben, drücken Sie die Taste im Handumdrehen:</translation>
+        <translation>Wenn du das Rückgängig Feature bereits in BlackBerry World gekauft hast, drücke den folgenden Button :</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="338"/>
         <source>Refresh Payment Status</source>
-        <translation>Bezahlung rückgängig machen</translation>
+        <translation>Bezahlungsstatus neu laden</translation>
     </message>
     <message>
         <source>If you&apos;ve got the unlock code already, press the button below :</source>
-        <translation type="obsolete">Wenn Sie den Freischaltcode schon haben, drücken Sie die Taste im Handumdrehen:</translation>
+        <translation type="obsolete">Wenn du bereits einen Freischaltcode hast, drücke den folgenden Button :</translation>
     </message>
     <message>
         <source>Unlock with Code</source>
-        <translation type="obsolete">Ich habe einen schalt code</translation>
+        <translation type="obsolete">Mit Code freischalten</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="382"/>
         <source>Thank you for your support.</source>
-        <translation>Vielen Dank für Ihre Unterstützung.</translation>
+        <translation>Vielen Dank für deine Unterstützung.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="473"/>
         <source>No Record.</source>
-        <translation>kein Zahlungsmoral.</translation>
+        <translation>Keine Zahlungsbestätigung.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="524"/>
         <source>BBM connection failed, Please Allow BBM Connecting, restart app and try again. </source>
-        <translation>BBM ist nicht verbunden.</translation>
+        <translation>BBM ist nicht verbunden, bitte gib die Berechtigung die "Mit BBM verbinden" frei, starte die App neu und versuch es erneut.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="538"/>
@@ -285,22 +285,22 @@
     <message>
         <location filename="../assets/settings.qml" line="538"/>
         <source> ,Please enter your unlock code below:</source>
-        <translation>, Bitte geben Sie Ihren Freischalt-Code unten:</translation>
+        <translation>, Bitte gib deinen Freischaltcode unten ein:</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="514"/>
         <source>Cancel</source>
-        <translation>Afzeggen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="34"/>
         <source>Submit Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzung vorschlagen</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="520"/>
         <source>Invalid Unlock Code</source>
-        <translation>Code falsch/ fehler</translation>
+        <translation>Fehlerhafter Freischaltcode</translation>
     </message>
 </context>
 <context>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../assets/tutorial.qml" line="14"/>
         <source>Tutorial</source>
-        <translation>Lernprogramm</translation>
+        <translation>Tutorial</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="25"/>
@@ -331,22 +331,22 @@
     <message>
         <location filename="../assets/tutorial.qml" line="28"/>
         <source>Swipe your &lt;strong&gt;finger&lt;/strong&gt; to move the tiles. When two tiles with the same number touch, they &lt;strong&gt;merge into one!&lt;/strong&gt;</source>
-        <translation>Schiebe 2 Kacheln mit derselben Nummer zusammen, und sie werden verdoppelt</translation>
+        <translation>Wische mit dem Finger um die Kacheln zu bewegen. Wenn sich zwei Kacheln mit gleicher Zahl berühren, werden diese zu einer Kachel mit doppeltem Wert.</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="68"/>
         <source>When you created a 2048 tile, you win.</source>
-        <translation>Wenn Sie ein 2048-Fliesen erstellt, gewinnen Sie.</translation>
+        <translation>Wenn du eine 2048 Kachel erstellt hast, hast du gewonnen.</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="78"/>
         <source>ACCESS SETTINGS</source>
-        <translation>Besuch Einstellungsseite</translation>
+        <translation>Einstellungen anzeigen</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="81"/>
         <source>Swipe down from the top of screen, you&apos;ll see the actions available.</source>
-        <translation>Streichen Sie von der Spitze des Bildschirms, sehen Sie die Aktionen zur Verfügung.</translation>
+        <translation>Streiche von der Oberkante des Bildschirms nach unten, um alle verfügbaren Aktionen anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="94"/>
