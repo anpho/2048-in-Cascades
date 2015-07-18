@@ -44,7 +44,7 @@
     <message>
         <location filename="../assets/import.qml" line="76"/>
         <source>I&apos;ll decide later</source>
-        <translation>以后更说</translation>
+        <translation>以后再说</translation>
     </message>
 </context>
 <context>
@@ -128,128 +128,133 @@
         <translation>以指定的语言显示界面。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="109"/>
+        <location filename="../assets/settings.qml" line="112"/>
         <source>Simplified Chinese</source>
         <translation>简体中文</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="115"/>
+        <location filename="../assets/settings.qml" line="118"/>
         <source>Traditional Chinese</source>
         <translation>繁体中文</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="121"/>
+        <location filename="../assets/settings.qml" line="124"/>
         <source>English</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="127"/>
+        <location filename="../assets/settings.qml" line="130"/>
         <source>Indonesian</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="133"/>
+        <location filename="../assets/settings.qml" line="136"/>
         <source>Fran莽ais</source>
         <translation>法语</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="139"/>
+        <location filename="../assets/settings.qml" line="142"/>
         <source>Spanish</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="145"/>
+        <location filename="../assets/settings.qml" line="148"/>
         <source>Italiano</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="151"/>
+        <location filename="../assets/settings.qml" line="154"/>
         <source>Deutsch</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="164"/>
+        <location filename="../assets/settings.qml" line="160"/>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/settings.qml" line="173"/>
         <source>Animation Speed</source>
         <translation>动画速度</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="168"/>
+        <location filename="../assets/settings.qml" line="177"/>
         <source>Choose the animation speed.</source>
         <translation>选择动画显示的速度。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="174"/>
+        <location filename="../assets/settings.qml" line="183"/>
         <source>Slow</source>
         <translation>慢速</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="179"/>
+        <location filename="../assets/settings.qml" line="188"/>
         <source>Normal</source>
         <translation>中速</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="184"/>
+        <location filename="../assets/settings.qml" line="193"/>
         <source>Fast</source>
         <translation>快速</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="212"/>
+        <location filename="../assets/settings.qml" line="221"/>
         <source>Experimental</source>
         <translation>实验性功能</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="232"/>
+        <location filename="../assets/settings.qml" line="241"/>
         <source>Theme</source>
         <translation>主题</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="236"/>
+        <location filename="../assets/settings.qml" line="245"/>
         <source>You can choose the theme here, no restart required.</source>
         <translation>在此处更改游戏主题（不需重启）。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="242"/>
+        <location filename="../assets/settings.qml" line="251"/>
         <source>Dark</source>
         <translation>黑夜</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="247"/>
+        <location filename="../assets/settings.qml" line="256"/>
         <source>Bright</source>
         <translation>明亮</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="252"/>
+        <location filename="../assets/settings.qml" line="261"/>
         <source>Vivid</source>
         <translation>鲜艳</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="257"/>
+        <location filename="../assets/settings.qml" line="266"/>
         <source>Blue</source>
         <translation>蓝调</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="262"/>
+        <location filename="../assets/settings.qml" line="271"/>
         <source>Flat Dots</source>
         <translation>圆点</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="211"/>
+        <location filename="../assets/settings.qml" line="220"/>
         <source>Sound</source>
         <translation>游戏音效</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="215"/>
+        <location filename="../assets/settings.qml" line="224"/>
         <source>Enable sound in game</source>
         <translation>启用游戏音效</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="523"/>
-        <location filename="../assets/settings.qml" line="537"/>
+        <location filename="../assets/settings.qml" line="532"/>
+        <location filename="../assets/settings.qml" line="546"/>
         <source>Unlock</source>
         <translation>解锁</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="307"/>
+        <location filename="../assets/settings.qml" line="316"/>
         <source>Undo Feature Status:</source>
         <translation>解锁状态：</translation>
     </message>
@@ -272,43 +277,43 @@
         <translation type="obsolete">法语</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="296"/>
+        <location filename="../assets/settings.qml" line="305"/>
         <source>Undo</source>
         <translation>撤销</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="312"/>
+        <location filename="../assets/settings.qml" line="321"/>
         <source>Locked</source>
         <translation>未解锁</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="312"/>
+        <location filename="../assets/settings.qml" line="321"/>
         <source>Unlocked</source>
         <translation>已解锁</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="324"/>
+        <location filename="../assets/settings.qml" line="333"/>
         <source>Undo feature lets you undo your last 50 movements, till the very beginning of the game,or the last saved state.</source>
         <translation>撤销功能可以让你撤回最近的50步操作，直到游戏的初始状态。如果你中途退出过游戏，将只能撤销至最后保存的状态。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="330"/>
+        <location filename="../assets/settings.qml" line="339"/>
         <source>Unlock UNDO Feature</source>
         <translation>解锁撤销功能</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="350"/>
-        <location filename="../assets/settings.qml" line="371"/>
+        <location filename="../assets/settings.qml" line="359"/>
+        <location filename="../assets/settings.qml" line="380"/>
         <source>Waiting for Payment Service...</source>
         <translation>正在联系支付平台……</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="355"/>
+        <location filename="../assets/settings.qml" line="364"/>
         <source>If you already purchased the UNDO feature via BlackBerry World, press the button below :</source>
         <translation>如果你已经购买了此功能，请点击以下按钮：</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="377"/>
+        <location filename="../assets/settings.qml" line="386"/>
         <source>Refresh Payment Status</source>
         <translation>刷新支付状态</translation>
     </message>
@@ -321,32 +326,32 @@
         <translation type="obsolete">使用解锁码解锁</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="407"/>
+        <location filename="../assets/settings.qml" line="416"/>
         <source>Thank you for your support.</source>
         <translation>感谢您的支持。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="497"/>
+        <location filename="../assets/settings.qml" line="506"/>
         <source>No Record.</source>
         <translation>没有支付记录。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="548"/>
+        <location filename="../assets/settings.qml" line="557"/>
         <source>BBM connection failed, Please Allow BBM Connecting, restart app and try again. </source>
         <translation>BBM连接失败，请允许2048连接到BBM，并重启应用后重试。</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="562"/>
+        <location filename="../assets/settings.qml" line="571"/>
         <source>Your KEY is: </source>
         <translation>您的 KEY 为： </translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="562"/>
+        <location filename="../assets/settings.qml" line="571"/>
         <source> ,Please enter your unlock code below:</source>
         <translation> ，请在下方输入您的解锁码：</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="538"/>
+        <location filename="../assets/settings.qml" line="547"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -356,7 +361,7 @@
         <translation>翻译成其他语言</translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="544"/>
+        <location filename="../assets/settings.qml" line="553"/>
         <source>Invalid Unlock Code</source>
         <translation>解锁码无效</translation>
     </message>

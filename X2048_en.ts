@@ -128,128 +128,133 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="109"/>
+        <location filename="../assets/settings.qml" line="112"/>
         <source>Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="115"/>
+        <location filename="../assets/settings.qml" line="118"/>
         <source>Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="121"/>
+        <location filename="../assets/settings.qml" line="124"/>
         <source>English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="127"/>
+        <location filename="../assets/settings.qml" line="130"/>
         <source>Indonesian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="133"/>
+        <location filename="../assets/settings.qml" line="136"/>
         <source>Fran莽ais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="139"/>
+        <location filename="../assets/settings.qml" line="142"/>
         <source>Spanish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="145"/>
+        <location filename="../assets/settings.qml" line="148"/>
         <source>Italiano</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="151"/>
+        <location filename="../assets/settings.qml" line="154"/>
         <source>Deutsch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="164"/>
+        <location filename="../assets/settings.qml" line="160"/>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/settings.qml" line="173"/>
         <source>Animation Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="168"/>
+        <location filename="../assets/settings.qml" line="177"/>
         <source>Choose the animation speed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="174"/>
+        <location filename="../assets/settings.qml" line="183"/>
         <source>Slow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="179"/>
+        <location filename="../assets/settings.qml" line="188"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="184"/>
+        <location filename="../assets/settings.qml" line="193"/>
         <source>Fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="212"/>
+        <location filename="../assets/settings.qml" line="221"/>
         <source>Experimental</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="232"/>
+        <location filename="../assets/settings.qml" line="241"/>
         <source>Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="236"/>
+        <location filename="../assets/settings.qml" line="245"/>
         <source>You can choose the theme here, no restart required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="242"/>
+        <location filename="../assets/settings.qml" line="251"/>
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="247"/>
+        <location filename="../assets/settings.qml" line="256"/>
         <source>Bright</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="252"/>
+        <location filename="../assets/settings.qml" line="261"/>
         <source>Vivid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="257"/>
+        <location filename="../assets/settings.qml" line="266"/>
         <source>Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="262"/>
+        <location filename="../assets/settings.qml" line="271"/>
         <source>Flat Dots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="211"/>
+        <location filename="../assets/settings.qml" line="220"/>
         <source>Sound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="215"/>
+        <location filename="../assets/settings.qml" line="224"/>
         <source>Enable sound in game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="523"/>
-        <location filename="../assets/settings.qml" line="537"/>
+        <location filename="../assets/settings.qml" line="532"/>
+        <location filename="../assets/settings.qml" line="546"/>
         <source>Unlock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="307"/>
+        <location filename="../assets/settings.qml" line="316"/>
         <source>Undo Feature Status:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -264,73 +269,73 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="296"/>
+        <location filename="../assets/settings.qml" line="305"/>
         <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="312"/>
+        <location filename="../assets/settings.qml" line="321"/>
         <source>Locked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="312"/>
+        <location filename="../assets/settings.qml" line="321"/>
         <source>Unlocked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="324"/>
+        <location filename="../assets/settings.qml" line="333"/>
         <source>Undo feature lets you undo your last 50 movements, till the very beginning of the game,or the last saved state.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="330"/>
+        <location filename="../assets/settings.qml" line="339"/>
         <source>Unlock UNDO Feature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="350"/>
-        <location filename="../assets/settings.qml" line="371"/>
+        <location filename="../assets/settings.qml" line="359"/>
+        <location filename="../assets/settings.qml" line="380"/>
         <source>Waiting for Payment Service...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="355"/>
+        <location filename="../assets/settings.qml" line="364"/>
         <source>If you already purchased the UNDO feature via BlackBerry World, press the button below :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="377"/>
+        <location filename="../assets/settings.qml" line="386"/>
         <source>Refresh Payment Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="407"/>
+        <location filename="../assets/settings.qml" line="416"/>
         <source>Thank you for your support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="497"/>
+        <location filename="../assets/settings.qml" line="506"/>
         <source>No Record.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="548"/>
+        <location filename="../assets/settings.qml" line="557"/>
         <source>BBM connection failed, Please Allow BBM Connecting, restart app and try again. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="562"/>
+        <location filename="../assets/settings.qml" line="571"/>
         <source>Your KEY is: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="562"/>
+        <location filename="../assets/settings.qml" line="571"/>
         <source> ,Please enter your unlock code below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="538"/>
+        <location filename="../assets/settings.qml" line="547"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -340,7 +345,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/settings.qml" line="544"/>
+        <location filename="../assets/settings.qml" line="553"/>
         <source>Invalid Unlock Code</source>
         <translation type="unfinished"></translation>
     </message>
