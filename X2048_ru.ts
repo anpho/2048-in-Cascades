@@ -14,37 +14,37 @@
     <message>
         <location filename="../assets/import.qml" line="9"/>
         <source>Go</source>
-        <translation type="unfinished"></translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="30"/>
         <source>Import Former Game Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать предыдущие данные игры</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="45"/>
         <source>Former Game Data Detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Найдены предыдущие данные игры</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="58"/>
         <source>Please choose which data you&apos;d like to keep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, выберите, какие данные вы хотите сохранить.</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="65"/>
         <source>Former record</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущая запись</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="72"/>
         <source>Current record</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная запись</translation>
     </message>
     <message>
         <location filename="../assets/import.qml" line="76"/>
         <source>I&apos;ll decide later</source>
-        <translation type="unfinished"></translation>
+        <translation>Я решу позже</translation>
     </message>
 </context>
 <context>
@@ -130,47 +130,47 @@
     <message>
         <location filename="../assets/settings.qml" line="112"/>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Simplified Chinese</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="118"/>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Традиционный Китайский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="124"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="130"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Индонезийский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="136"/>
         <source>Fran莽ais</source>
-        <translation type="unfinished"></translation>
+        <translation>Французский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="142"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Испанский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="148"/>
         <source>Italiano</source>
-        <translation type="unfinished"></translation>
+        <translation>Итальянский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="154"/>
         <source>Deutsch</source>
-        <translation type="unfinished"></translation>
+        <translation>Немецкий</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="160"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Чешский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="173"/>
@@ -210,7 +210,7 @@
     <message>
         <location filename="../assets/settings.qml" line="245"/>
         <source>You can choose the theme here, no restart required.</source>
-        <translation>Вы можете выбрать тему здесь, не требуется перезагрузка.</translation>
+        <translation>Вы можете выбрать тему здесь, перезагрузка не требуется.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="251"/>
@@ -220,17 +220,17 @@
     <message>
         <location filename="../assets/settings.qml" line="256"/>
         <source>Bright</source>
-        <translation type="unfinished">Светлая</translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="261"/>
         <source>Vivid</source>
-        <translation type="unfinished">Яркая</translation>
+        <translation>Яркая</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="266"/>
         <source>Blue</source>
-        <translation type="unfinished">Синяя</translation>
+        <translation>Синяя</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="271"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../assets/settings.qml" line="386"/>
         <source>Refresh Payment Status</source>
-        <translation type="unfinished">Обновить статус оплаты</translation>
+        <translation>Обновить статус оплаты</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="416"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../assets/settings.qml" line="557"/>
         <source>BBM connection failed, Please Allow BBM Connecting, restart app and try again. </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось подлючиться к BBM, пожалуйста, разрешите подключение к BBM, перезагрузите приложение и попробуйте снова. </translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="571"/>
@@ -332,7 +332,7 @@
     <message>
         <location filename="../assets/settings.qml" line="571"/>
         <source> ,Please enter your unlock code below:</source>
-        <translation>, Пожалуйста, введите код разблокировки ниже:</translation>
+        <translation>, пожалуйста, введите код разблокировки ниже:</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="547"/>
