@@ -2,6 +2,17 @@
 <!DOCTYPE TS>
 <TS version="2.0">
 <context>
+    <name>Cover</name>
+    <message>
+        <source>Score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Game</name>
     <message>
         <source>Please go to Settings page to unlock this feature.</source>
@@ -181,10 +192,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unlock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Undo Feature Status:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -225,31 +232,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your KEY is: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> ,Please enter your unlock code below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Unlock Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BBM connection failed, Please Allow BBM Connecting, restart app and try again. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Team</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -258,10 +241,6 @@
     </message>
     <message>
         <source>Submit Translation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fran莽ais</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -278,6 +257,22 @@
     </message>
     <message>
         <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Français</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESET GAME DATA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset your game data? This will erease your current game status and best score record, which is not recoverable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -320,6 +315,17 @@
     </message>
     <message>
         <source>Tutorial</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>webviewer</name>
+    <message>
+        <source>Issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
