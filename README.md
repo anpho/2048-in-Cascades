@@ -3,14 +3,12 @@
 
 > This is the i18n and issue repo for 2048 ( BlackBerry 10 Platform ), you can submit issues and new localization files here.
 
-# how to do localization?
+## how to do localization?
 
-If you want to **Patch** some translation error, just clone this repo, fix it, and submit a pull request, I'll do the merge thing.
+1. fork this repo
+2. edit the language files that you want to update
+3. send a pull request when you ready
 
-If you want to make a new localization file, you can copy the x2048.ts file to x2048-locale.ts and do the translation, then submit a pull request.
+## how to contact me ?
 
-# What I could offer?
-
-Every new complete language contributor can join my *Vendor Tester* team, and can download all my apps for free.
-
-### Merrick Zhang [anpho]
+You can contact me via [Email](mailto:anpho@bbdev.cn?subject=2048-in-cascades-request) or Channel: PIN:C0019B53D 
