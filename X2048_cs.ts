@@ -414,7 +414,7 @@
     <message>
         <location filename="../assets/tutorial.qml" line="80"/>
         <source>Swipe down from the top of screen, you&apos;ll see the actions available.</source>
-        <translation>Menu aktivujete tahem od horního okraje displeje směrem dolů.</translation>
+        <translation>Nastavení naleznete tahem od horního okraje displeje směrem dolů.</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="93"/>
