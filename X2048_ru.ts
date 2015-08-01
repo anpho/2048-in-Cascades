@@ -6,12 +6,12 @@
     <message>
         <location filename="../assets/Cover.qml" line="34"/>
         <source>Score</source>
-        <translation type="unfinished"></translation>
+        <translation>Счёт</translation>
     </message>
     <message>
         <location filename="../assets/Cover.qml" line="50"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Лучшее</translation>
     </message>
 </context>
 <context>
@@ -187,7 +187,7 @@
     <message>
         <location filename="../assets/settings.qml" line="186"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Русский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="196"/>
@@ -286,17 +286,17 @@
         <location filename="../assets/settings.qml" line="32"/>
         <location filename="../assets/settings.qml" line="40"/>
         <source>RESET GAME DATA</source>
-        <translation type="unfinished"></translation>
+        <translation>СБРОСИТЬ ДАННЫЕ ИГРЫ</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="41"/>
         <source>Are you sure you want to reset your game data? This will erease your current game status and best score record, which is not recoverable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите сбросить ваши игровые данные? Это сотрёт текущее состояние игры и лучший результат без возможности восстановить.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="156"/>
         <source>Français</source>
-        <translation type="unfinished"></translation>
+        <translation>Французский</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="333"/>
@@ -431,12 +431,12 @@
     <message>
         <location filename="../assets/webviewer.qml" line="7"/>
         <source>Issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Проблемы</translation>
     </message>
     <message>
         <location filename="../assets/webviewer.qml" line="10"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 </TS>
