@@ -6,12 +6,12 @@
     <message>
         <location filename="../assets/Cover.qml" line="34"/>
         <source>Score</source>
-        <translation type>Skóre</translation>
+        <translation>Skóre</translation>
     </message>
     <message>
         <location filename="../assets/Cover.qml" line="50"/>
         <source>Best</source>
-        <translation type>Rekord</translation>
+        <translation>Rekord</translation>
     </message>
 </context>
 <context>
@@ -138,12 +138,12 @@
         <location filename="../assets/settings.qml" line="32"/>
         <location filename="../assets/settings.qml" line="40"/>
         <source>RESET GAME DATA</source>
-        <translation type>Resetovat herní data</translation>
+        <translation>Resetovat herní data</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="41"/>
         <source>Are you sure you want to reset your game data? This will erease your current game status and best score record, which is not recoverable.</source>
-        <translation type>Jste si jisti? Tento krok nenávratně smaže všechna vaše nahraná data.</translation>
+        <translation>Jste si jisti? Tento krok nenávratně smaže všechna vaše nahraná data.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="66"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../assets/settings.qml" line="186"/>
         <source>Russian</source>
-        <translation type>ruština</translation>
+        <translation>ruština</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="196"/>
@@ -431,12 +431,12 @@
     <message>
         <location filename="../assets/webviewer.qml" line="7"/>
         <source>Issues</source>
-        <translation type>Ohlášení chyby (anglicky)</translation>
+        <translation>Ohlášení chyby (anglicky)</translation>
     </message>
     <message>
         <location filename="../assets/webviewer.qml" line="10"/>
         <source>Close</source>
-        <translation type>Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
 </context>
 </TS>
