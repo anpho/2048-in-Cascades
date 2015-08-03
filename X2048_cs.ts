@@ -6,12 +6,12 @@
     <message>
         <location filename="../assets/Cover.qml" line="34"/>
         <source>Score</source>
-        <translation type="unfinished"></translation>
+        <translation type>Skóre</translation>
     </message>
     <message>
         <location filename="../assets/Cover.qml" line="50"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation type>Rekord</translation>
     </message>
 </context>
 <context>
@@ -132,18 +132,18 @@
     <message>
         <location filename="../assets/settings.qml" line="24"/>
         <source>Submit Translation</source>
-        <translation>Potvrďte překlad</translation>
+        <translation>Pomozte s překladem</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="32"/>
         <location filename="../assets/settings.qml" line="40"/>
         <source>RESET GAME DATA</source>
-        <translation type="unfinished"></translation>
+        <translation type>Resetovat herní data</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="41"/>
         <source>Are you sure you want to reset your game data? This will erease your current game status and best score record, which is not recoverable.</source>
-        <translation type="unfinished"></translation>
+        <translation type>Jste si jisti? Tento krok nenávratně smaže všechna vaše nahraná data.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="66"/>
@@ -186,13 +186,9 @@
         <translation>indonéština</translation>
     </message>
     <message>
-        <source>Fran莽ais</source>
-        <translation type="obsolete">francouzsky</translation>
-    </message>
-    <message>
         <location filename="../assets/settings.qml" line="156"/>
         <source>Français</source>
-        <translation type="unfinished"></translation>
+        <translation>francouzština</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="162"/>
@@ -212,12 +208,12 @@
     <message>
         <location filename="../assets/settings.qml" line="180"/>
         <source>Czech</source>
-        <translation>česká</translation>
+        <translation>čeština</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="186"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation type>ruština</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="196"/>
@@ -282,7 +278,7 @@
     <message>
         <location filename="../assets/settings.qml" line="292"/>
         <source>Vivid</source>
-        <translation>Sytý</translation>
+        <translation>Barevný</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="297"/>
@@ -317,7 +313,7 @@
     <message>
         <location filename="../assets/settings.qml" line="361"/>
         <source>Undo feature lets you undo your last 50 movements, till the very beginning of the game,or the last saved state.</source>
-        <translation>Funkce krok zpět vám umožní vrátit zpět až 50 tahů; k samotnému začátku hry nebo poslednímu uloženému stavu.</translation>
+        <translation>Funkce krok zpět vám umožní vrátit se zpět až o 50 tahů - k samotnému začátku hry nebo poslednímu uloženému stavu.</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="367"/>
@@ -328,7 +324,7 @@
         <location filename="../assets/settings.qml" line="387"/>
         <location filename="../assets/settings.qml" line="408"/>
         <source>Waiting for Payment Service...</source>
-        <translation>Prosím vyčkejte, probíhá platba...</translation>
+        <translation>Prosím vyčkejte, probíhá komunikace...</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="392"/>
@@ -343,7 +339,7 @@
     <message>
         <location filename="../assets/settings.qml" line="444"/>
         <source>Thank you for your support.</source>
-        <translation>Děkujeme Vám za podporu.</translation>
+        <translation>Děkujeme Vám za podporu!</translation>
     </message>
     <message>
         <location filename="../assets/settings.qml" line="485"/>
@@ -418,7 +414,7 @@
     <message>
         <location filename="../assets/tutorial.qml" line="80"/>
         <source>Swipe down from the top of screen, you&apos;ll see the actions available.</source>
-        <translation>Menu aktivujete pohybem od horní části displeje směrem dolů.</translation>
+        <translation>Nastavení naleznete tahem od horního okraje displeje směrem dolů.</translation>
     </message>
     <message>
         <location filename="../assets/tutorial.qml" line="93"/>
@@ -435,12 +431,12 @@
     <message>
         <location filename="../assets/webviewer.qml" line="7"/>
         <source>Issues</source>
-        <translation type="unfinished"></translation>
+        <translation type>Ohlášení chyby (anglicky)</translation>
     </message>
     <message>
         <location filename="../assets/webviewer.qml" line="10"/>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation type>Zavřít</translation>
     </message>
 </context>
 </TS>
