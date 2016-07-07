@@ -88,32 +88,32 @@
         <translation>Captura de pantalla</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>You Win</source>
         <translation>Tú ganas</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>Game Over</source>
         <translation>Game over</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="289"/>
+        <location filename="../assets/main.qml" line="290"/>
         <source>Continue</source>
         <translation>Continuar</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="301"/>
+        <location filename="../assets/main.qml" line="302"/>
         <source>Restart</source>
         <translation>Volver a intentar</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="313"/>
+        <location filename="../assets/main.qml" line="314"/>
         <source>Undo</source>
         <translation>Deshacer</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="325"/>
+        <location filename="../assets/main.qml" line="326"/>
         <source>Share Screenshot</source>
         <translation>Compartir</translation>
     </message>

@@ -88,32 +88,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>You Win</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>Game Over</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="289"/>
+        <location filename="../assets/main.qml" line="290"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="301"/>
+        <location filename="../assets/main.qml" line="302"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="313"/>
+        <location filename="../assets/main.qml" line="314"/>
         <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="325"/>
+        <location filename="../assets/main.qml" line="326"/>
         <source>Share Screenshot</source>
         <translation type="unfinished"></translation>
     </message>

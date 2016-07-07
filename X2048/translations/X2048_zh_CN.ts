@@ -88,32 +88,32 @@
         <translation>截图</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>You Win</source>
         <translation>恭喜！你赢了</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="270"/>
+        <location filename="../assets/main.qml" line="271"/>
         <source>Game Over</source>
         <translation>游戏结束</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="289"/>
+        <location filename="../assets/main.qml" line="290"/>
         <source>Continue</source>
         <translation>继续挑战</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="301"/>
+        <location filename="../assets/main.qml" line="302"/>
         <source>Restart</source>
         <translation>重新开始</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="313"/>
+        <location filename="../assets/main.qml" line="314"/>
         <source>Undo</source>
         <translation>撤销</translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="325"/>
+        <location filename="../assets/main.qml" line="326"/>
         <source>Share Screenshot</source>
         <translation>共享截图</translation>
     </message>

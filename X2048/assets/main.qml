@@ -55,6 +55,7 @@ Page {
         ]
     }
     onCreationCompleted: {
+        _app.setValue("unlocked", "true");
         Application.setCover(multicover);
         Application.thumbnail.connect(savestate) //保存进度
         _app.timeout.connect(take_a_shot);
