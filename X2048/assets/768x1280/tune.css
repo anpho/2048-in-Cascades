@@ -1,0 +1,75 @@
+.container {
+    width: 640px  !important;
+    padding-top: 6px   !important;
+    padding-bottom: 6px   !important;
+    clear: both  !important;
+    margin: 0 auto  !important;
+}
+html,body{
+    width:660px   !important;
+}
+.game-intro{
+    margin: 32px 20px  !important;
+    font-size: 28px !important;
+}
+.game-explanation {
+    margin: 32px 20px !important; 
+    font-size:32px !important;
+}
+
+.game-container{
+    width:640px  !important;
+    height:640px  !important;
+}
+.tile,.tile .tile-inner {
+    width:141px   !important;
+    height:141px   !important;
+    line-height: 141px   !important;
+}
+.grid-cell{
+    width:141px   !important;
+    height:141px   !important;
+}
+.tile.tile-position-1-1 {
+    -webkit-transform: translate(0px, 0px)  !important;}
+.tile.tile-position-1-2 {
+    -webkit-transform: translate(0px, 155px)  !important;}
+.tile.tile-position-1-3 {
+    -webkit-transform: translate(0px, 310px)  !important;}
+.tile.tile-position-1-4 {
+    -webkit-transform: translate(0px, 465px)  !important;}
+.tile.tile-position-2-1 {
+    -webkit-transform: translate(155px, 0px)  !important;}
+.tile.tile-position-2-2 {
+    -webkit-transform: translate(155px, 155px)  !important;
+}
+.tile.tile-position-2-3 {
+    -webkit-transform: translate(155px, 310px)  !important;
+}
+.tile.tile-position-2-4 {
+    -webkit-transform: translate(155px, 465px)  !important;
+}
+.tile.tile-position-3-1 {
+    -webkit-transform: translate(310px, 0px)  !important;
+}
+.tile.tile-position-3-2 {
+    -webkit-transform: translate(310px, 155px)  !important;
+}
+.tile.tile-position-3-3 {
+    -webkit-transform: translate(310px, 310px)  !important;
+}
+.tile.tile-position-3-4 {
+    -webkit-transform: translate(310px, 465px)  !important;
+}
+.tile.tile-position-4-1 {
+    -webkit-transform: translate(465px, 0px)  !important;
+}
+.tile.tile-position-4-2 {
+    -webkit-transform: translate(465px, 155px)  !important;
+}
+.tile.tile-position-4-3 {
+    -webkit-transform: translate(465px, 310px)  !important;
+}
+.tile.tile-position-4-4 {
+    -webkit-transform: translate(465px, 465px)  !important;
+}

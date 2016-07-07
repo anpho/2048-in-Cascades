@@ -1,7 +1,7 @@
 2048 for BlackBerry 10
 ================
 
-> This is the i18n and issue repo for 2048 ( BlackBerry 10 Platform ), you can submit issues and new localization files here.
+> This is the repo for 2048 ( BlackBerry 10 Platform ), you can submit issues and new localization files here.
 
 ## how to do localization?
 
@@ -11,4 +11,4 @@
 
 ## how to contact me ?
 
-You can contact me via [Email](mailto:anpho@bbdev.cn?subject=2048-in-cascades-request) or Channel: PIN:C0019B53D 
+You can contact me via [Email](mailto:anpho@bbdev.cn?subject=2048-in-cascades-request)

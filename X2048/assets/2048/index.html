@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link href="css/main.css" rel="stylesheet" type="text/css">
+        <title>2048</title>
+        <script type="text/javascript" src="js/i18n.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script src="js/game_manager.js"></script>
+        <meta name="viewport" content="width=device-width,initial-scale=0.6, maximum-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+        <div id="gamescr">
+            <div style="-webkit-transform: translate3d(0, 0, 0);">
+                <div class="heading" style="margin: 10px 35px">
+                    <div class="scores-container">
+                        <div class="score-container">0</div>
+                        <div class="best-container">0</div>
+                    </div>
+                    <div id="undobtn"></div>
+                </div>
+            </div>
+            <div class="container" style="-webkit-transform: translate3d(0, 0, 0);">
+                <div class="game-container">
+                    <div class="game-message">
+                        <p></p>
+                        <div class="lower">
+                            <div class="keep-playing-button">
+                                <div data-bb-type="button" data-bb-style="stretch" i18n="true">`keepgoing`</div>
+                            </div>
+                            <div class="retry-button">
+                                <div data-bb-type="button" data-bb-style="stretch" i18n="true">`tryagain`</div>
+                            </div>
+                            <div class="score-sharing">
+                                <div data-bb-type="button" data-bb-style="stretch" i18n="true">`share`</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-container">
+                        <div class="grid-row">
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                        </div>
+                        <div class="grid-row">
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                        </div>
+                        <div class="grid-row">
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                        </div>
+                        <div class="grid-row">
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                            <div class="grid-cell"></div>
+                        </div>
+                    </div>
+                    <div class="tile-container"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <!-- Contact anpho@boun.cr for more information. -->
+
+</html>
